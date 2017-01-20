@@ -3,10 +3,10 @@
   <channel>
     <title>Sams blog</title>
     <description>This is a blog about all things but mostly web development</description>
-    <link>https://sws-dev.github.io/just-email/</link>
-    <atom:link href="https://sws-dev.github.io/just-email/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 20 Jan 2017 12:44:46 +0000</pubDate>
-    <lastBuildDate>Fri, 20 Jan 2017 12:44:46 +0000</lastBuildDate>
+    <link>https://sws-dev.github.io/sams-blog/</link>
+    <atom:link href="https://sws-dev.github.io/sams-blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 20 Jan 2017 14:14:13 +0000</pubDate>
+    <lastBuildDate>Fri, 20 Jan 2017 14:14:13 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -23,8 +23,8 @@
 
 </description>
         <pubDate>Fri, 20 Jan 2017 09:30:30 +0000</pubDate>
-        <link>https://sws-dev.github.io/just-email/jekyll/2017/01/20/my-first-jekyll-site.html</link>
-        <guid isPermaLink="true">https://sws-dev.github.io/just-email/jekyll/2017/01/20/my-first-jekyll-site.html</guid>
+        <link>https://sws-dev.github.io/sams-blog/jekyll/2017/01/20/my-first-jekyll-site.html</link>
+        <guid isPermaLink="true">https://sws-dev.github.io/sams-blog/jekyll/2017/01/20/my-first-jekyll-site.html</guid>
         
         
         <category>jekyll</category>
@@ -49,8 +49,8 @@
 
 </description>
         <pubDate>Thu, 19 Jan 2017 16:45:39 +0000</pubDate>
-        <link>https://sws-dev.github.io/just-email/jekyll/update/2017/01/19/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://sws-dev.github.io/just-email/jekyll/update/2017/01/19/welcome-to-jekyll.html</guid>
+        <link>https://sws-dev.github.io/sams-blog/jekyll/update/2017/01/19/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://sws-dev.github.io/sams-blog/jekyll/update/2017/01/19/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>

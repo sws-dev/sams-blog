@@ -17,7 +17,7 @@ title: Sams blog
 email: sam@sws-dev.com
 description: "This is a blog about all things but mostly web development"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sws-dev.github.io/just-email" # the base hostname & protocol for your site
+url: "https://sws-dev.github.io/sams-blog" # the base hostname & protocol for your site
 twitter_username: samwallacesmith
 github_username:  sws-dev
 
