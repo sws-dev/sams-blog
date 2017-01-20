@@ -1,2 +1,2 @@
-# just-email
+# Sams-blog
 Project with jekyl

@@ -456,6 +456,14 @@ pre {
   .highlight .il {
     color: #099; }
 
+.page-content .post-list li {
+  padding: 1rem;
+  margin-bottom: 0px; }
+  .page-content .post-list li:nth-child(odd) {
+    background-color: #e8e8e8; }
+  .page-content .post-list li h2 {
+    margin-bottom: 0px; }
+
 .site-footer {
-  border-color: grey;
-  background-color: grey; }
+  border-color: #828282;
+  background-color: #e8e8e8; }
